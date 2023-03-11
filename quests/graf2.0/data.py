@@ -1,5 +1,16 @@
 #In this file we have technikal data
 
+
+
+loundry1=0
+labaratory1=0
+storaje=0
+dos=0
+backpack={"card":"none", "ram":"none", "memory":"none", "costume":"none", "geyger":"none"}
+
+final_password = 123456
+password = 123
+
 ram='''
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
